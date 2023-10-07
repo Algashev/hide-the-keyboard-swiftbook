@@ -4,3 +4,5 @@
 Источник проекта: https://github.com/IvanAkulov/iOS-Demos/tree/master/44.iOS10Swift3HideTheKeyboard
 
 Обновлен под `Xcode 15` и `Swift 5`.
+
+![Демо проекта](simulator-screen-recording.gif "Демо проекта")
